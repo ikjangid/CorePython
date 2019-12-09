@@ -1,0 +1,1 @@
+Hello, I am a string pushed by file handling in python.
